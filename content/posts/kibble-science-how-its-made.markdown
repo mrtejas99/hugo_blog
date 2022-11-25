@@ -17,7 +17,7 @@ Take a walk thru your local pet store and you’ll see dozens of different kibbl
 
 All kibble, regardless of brand, are supposed to be nutritionally balanced and complete, so that your cat’s basic dietary needs are met by the ingredients. However, not all are. Each proprietary recipe from the various kibble manufacturers will include protein sources like beef, chicken and eggs, as well as grains, cereals, vitamins, minerals, and antioxidants.
 ___
-##How Kibble is Made
+## How Kibble is Made
 
 These raw wet and dry ingredients are first mixed together and then pulverized to make a special paste like dough. Once this dough is prepared, it must then be cooked and formed. This is done by a process called ‘extrusion’ using a machine called an expander (or extruder).
 
