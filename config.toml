@@ -1,0 +1,4 @@
+baseURL = 'http://mrtejas99.github.com/'
+languageCode = 'en-us'
+title = 'CatWorld'
+theme= 'ananke'
